@@ -1,0 +1,20 @@
+* body{
+    background-color: rgb(18, 50, 76);
+    color: white;
+}
+.registration-form {
+    background-color: rgb(48, 94, 132);
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 50px!important;
+}
+.registration-form .form-group {
+    margin: 15px 0px;
+}
+.registration-form input {
+    color: black;
+}
+
+.generated-todo table{
+    color: white;
+}
